@@ -2,7 +2,7 @@
 
 ### Code Explanation
 
-The provided C code is a tool that reads a binary executable file, disassembles it, and builds a Control Flow Graph (CFG) by analyzing the flow of instructions. The CFG consists of basic blocks, where each block contains a sequence of instructions, and potentially jump instructions that lead to other blocks.
+The C code is a tool that reads a binary executable file, disassembles it, and builds a Control Flow Graph (CFG) by analyzing the flow of instructions. The CFG consists of basic blocks, where each block contains a sequence of instructions, and potentially jump instructions that lead to other blocks.
 
 Here’s a detailed breakdown of the code:
 
