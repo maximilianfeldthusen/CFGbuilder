@@ -183,9 +183,6 @@ If you have a binary `program.bin`, you can run the program like this:
 
 ---
 
-### GitHub README Markdown
-
-Here is how you can document the code in a GitHub README markdown file:
 
 # Control Flow Graph (CFG) Builder
 
