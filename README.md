@@ -184,7 +184,7 @@ If you have a binary `program.bin`, you can run the program like this:
 ---
 
 
-# Control Flow Graph (CFG) Builder
+## Control Flow Graph (CFG) Builder
 
 This tool builds a control flow graph (CFG) from a binary executable by disassembling it and analyzing the instructions. It identifies basic blocks and jump instructions, providing an overview of the program's execution flow.
 
